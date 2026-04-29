@@ -1,0 +1,366 @@
+[
+    {
+        "nome": "Imw Aeroclube",
+        "endereco": {
+            "rua": "Tangará",
+            "numero": "2058",
+            "bairro": "Castanheira",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "69 9 92226301",
+            "numero": "Miss Neide"
+        }
+    },
+    {
+        "nome": "Imw Alphaville",
+        "endereco": {
+            "rua": "Av imigrantes",
+            "numero": "6066",
+            "bairro": "Aponiã",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Pr Pedro",
+            "numero": "69 9 93340568"
+        }
+    },
+    {
+        "nome": "Imw Anchieta",
+        "endereco": {
+            "rua": "Anchieta",
+            "numero": "2179",
+            "bairro": "São Francisco",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Isabeli",
+            "numero": "69 9 93342949"
+        }
+    },
+    {
+        "nome": "Imw Areal",
+        "endereco": {
+            "rua": "Alexandre Guimarães",
+            "numero": "1586",
+            "bairro": "Areal",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "José Jr",
+            "numero": "69 9 984622690"
+        }
+    },
+    {
+        "nome": "Imw Areal da Floresta",
+        "endereco": {
+            "rua": "Raissa Lopes",
+            "numero": "4077",
+            "bairro": "Floresta",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Victória",
+            "numero": "69 9 92700319"
+        }
+    },
+    {
+        "nome": "Imw Calama",
+        "endereco": {
+            "rua": "Av. Calama",
+            "numero": "4517",
+            "bairro": "Flodoaldo Pontes Pinto",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Helena",
+            "numero": "69 9 92029482"
+        }
+    },
+    {
+        "nome": "Imw Candeias do Jamari",
+        "endereco": {
+            "rua": "21 de Abril",
+            "numero": "657",
+            "bairro": "União",
+            "cidade": "Candeias do Jamari",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "-",
+            "numero": "-"
+        }
+    },
+    {
+        "nome": "Imw Castanheira",
+        "endereco": {
+            "rua": "Brasil",
+            "numero": "6303",
+            "bairro": "Castanheira",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Daniel Coelho",
+            "numero": "69 9 93836785"
+        }
+    },
+    {
+        "nome": "Imw Central",
+        "endereco": {
+            "rua": "Paulo Leal",
+            "numero": "474",
+            "bairro": "Centro",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Luis Honorato",
+            "numero": "69 9 92944417"
+        }
+    },
+    {
+        "nome": "Imw Cidade Nova",
+        "endereco": {
+            "rua": "Humberto Florêncio",
+            "numero": "5643",
+            "bairro": "Cidade Nova",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Pr simplício",
+            "numero": "69 9 93251310"
+        }
+    },
+    {
+        "nome": "Imw Cohab",
+        "endereco": {
+            "rua": "Brasil",
+            "numero": "6303",
+            "bairro": "Castanheira",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Idelcemir",
+            "numero": "69 9 92372771"
+        }
+    },
+    {
+        "nome": "Imw Comunidade Mamore",
+        "endereco": {
+            "rua": "Av jose viera caula",
+            "numero": "7231",
+            "bairro": "Igarapé",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Melissa",
+            "numero": "69 9 92778986"
+        }
+    },
+    {
+        "nome": "Imw Eletronorte",
+        "endereco": {
+            "rua": "Tamareira",
+            "numero": "3277",
+            "bairro": "Vila Eletronorte",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Elissandro",
+            "numero": "69 9 92718088"
+        }
+    },
+    {
+        "nome": "Imw Guaporé",
+        "endereco": {
+            "rua": "Joaquim da rocha",
+            "numero": "5670",
+            "bairro": "Caladinho",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Daiane",
+            "numero": "69 9 92211712"
+        }
+    },
+    {
+        "nome": "Imw Humaita",
+        "endereco": {
+            "rua": "Imigrante",
+            "numero": "1580",
+            "bairro": "São pedro",
+            "cidade": "Humaitá",
+            "estado": "Amazonas"
+        },
+        "lider": {
+            "nome": "Pr joão",
+            "numero": "69 9 984057189"
+        }
+    },
+    {
+        "nome": "Imw JK",
+        "endereco": {
+            "rua": "",
+            "numero": "",
+            "bairro": "",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Luiz Júnior",
+            "numero": "69 9 92161762"
+        }
+    },
+    {
+        "nome": "Imw Lagoinha",
+        "endereco": {
+            "rua": "Luiz Gama",
+            "numero": "7522",
+            "bairro": "Jucelino Kubitschek",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Otto",
+            "numero": "69 9 93369103"
+        }
+    },
+    {
+        "nome": "Imw Liberdade",
+        "endereco": {
+            "rua": "Benjamin Constant",
+            "numero": "2895",
+            "bairro": "Liberdade",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Leitícia",
+            "numero": "69 9 92581727"
+        }
+    },
+    {
+        "nome": "Imw Marcos Freire",
+        "endereco": {
+            "rua": "Estrada dos Periquitos",
+            "numero": "1770 B",
+            "bairro": "Marcos Freire",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Eliezér",
+            "numero": "69 9 93127155"
+        }
+    },
+    {
+        "nome": "Imw Nova Floresta",
+        "endereco": {
+            "rua": "Sucupira",
+            "numero": "4287",
+            "bairro": "Nova Floresta",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "-",
+            "numero": "-"
+        }
+    },
+    {
+        "nome": "Imw Olaria",
+        "endereco": {
+            "rua": "Gonçalves Dias",
+            "numero": "1186",
+            "bairro": "Olaria",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Gabriel",
+            "numero": "69 9 84568384"
+        }
+    },
+    {
+        "nome": "Imw Pedrinhas",
+        "endereco": {
+            "rua": "José de Alencar",
+            "numero": "4747",
+            "bairro": "Pedrinhas",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Edilene",
+            "numero": "69 9 92779651"
+        }
+    },
+    {
+        "nome": "Imw Rio de Janeiro",
+        "endereco": {
+            "rua": "Av. Rio de Janeiro",
+            "numero": "5055",
+            "bairro": "Agenor de Carvalho",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Karine",
+            "numero": "69 9 92686494"
+        }
+    },
+    {
+        "nome": "Imw Rio Jamari",
+        "endereco": {
+            "rua": "Daniela",
+            "numero": "SN",
+            "bairro": "Conjunto Jamari",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Maria Luiza",
+            "numero": "69 9 93070637"
+        }
+    },
+    {
+        "nome": "Imw Tancredo Neves",
+        "endereco": {
+            "rua": "Alexandre Guimarães",
+            "numero": "8137",
+            "bairro": "Tancredo Neves",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Luis Cláudio",
+            "numero": "69 9 92612346"
+        }
+    },
+    {
+        "nome": "Imw União da Vitoria",
+        "endereco": {
+            "rua": "Av Calama",
+            "numero": "7110",
+            "bairro": "União da Vitoria",
+            "cidade": "Porto Velho",
+            "estado": "Rondônia"
+        },
+        "lider": {
+            "nome": "Barbara",
+            "numero": "69 9 92740637"
+        }
+    }
+]
