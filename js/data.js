@@ -129,10 +129,10 @@ const CHURCHES = [
     id: "imw-castanheira",
     nome: "IMW Castanheira",
     endereco: {
-      full: "Rua Brasil, 6303 - Castanheira, Porto Velho - RO",
+      full: "Rua Nova Iorque, 2915 - Castanheira, Porto Velho - RO",
       bairro: "Castanheira",
       cidade: "Porto Velho",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Brasil+6303+Castanheira+Porto+Velho+RO",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Nova+Iorque+2915+Castanheira+Porto+Velho+RO",
       available: true
     },
     lider: {
@@ -141,7 +141,7 @@ const CHURCHES = [
       whatsappUrl: "https://wa.me/556993836785",
       available: true
     },
-    coords: { lat: -8.7951042, lng: -63.8666895 }
+    coords: { lat: -8.7994441, lng: -63.8798846 }
   },
   {
     id: "imw-central",
