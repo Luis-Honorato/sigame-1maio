@@ -417,10 +417,10 @@ const CHURCHES = [
     id: "imw-rio-jamari",
     nome: "IMW Rio Jamari",
     endereco: {
-      full: "Rua Vila Nova, 6180 - 3 Marias, Porto Velho - RO",
+      full: "Rua Vila Nova, 6471 - 3 Marias, Porto Velho - RO",
       bairro: "3 Marias",
       cidade: "Porto Velho",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Vila+Nova+6180+3+Marias+Porto+Velho+RO",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Vila+Nova+6471+3+Marias+Porto+Velho+RO",
       available: true
     },
     lider: {
