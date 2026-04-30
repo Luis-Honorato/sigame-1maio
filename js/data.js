@@ -414,13 +414,13 @@ const CHURCHES = [
     coords: { lat: -8.7692588, lng: -63.8726531 }
   },
   {
-    id: "imw-rio-jamari",
-    nome: "IMW Rio Jamari",
+    id: "imw-rio-jamary",
+    nome: "IMW Rio Jamary",
     endereco: {
-      full: "Rua Vila Nova, 6471 - 3 Marias, Porto Velho - RO",
-      bairro: "3 Marias",
+      full: "Rua Daniela, 1130 - Igarapé, Porto Velho - RO",
+      bairro: "Igarapé",
       cidade: "Porto Velho",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Vila+Nova+6471+3+Marias+Porto+Velho+RO",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Daniela+1130+Igarap%C3%A9+Porto+Velho+RO",
       available: true
     },
     lider: {
@@ -429,7 +429,7 @@ const CHURCHES = [
       whatsappUrl: "https://wa.me/556993070637",
       available: true
     },
-    coords: { lat: -8.7749675, lng: -63.8548768 }
+    coords: { lat: -8.7474323, lng: -63.8517021 }
   },
   {
     id: "imw-tancredo-neves",
