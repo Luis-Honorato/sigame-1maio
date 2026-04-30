@@ -212,9 +212,9 @@
     {
         "nome": "Imw JK",
         "endereco": {
-            "rua": "",
-            "numero": "",
-            "bairro": "",
+            "rua": "Luiz Gama",
+            "numero": "7522",
+            "bairro": "Jucelino Kubitschek",
             "cidade": "Porto Velho",
             "estado": "Rondônia"
         },
@@ -226,9 +226,9 @@
     {
         "nome": "Imw Lagoinha",
         "endereco": {
-            "rua": "Luiz Gama",
-            "numero": "7522",
-            "bairro": "Jucelino Kubitschek",
+            "rua": "Atlético",
+            "numero": "3503",
+            "bairro": "Lagoinha",
             "cidade": "Porto Velho",
             "estado": "Rondônia"
         },
@@ -324,9 +324,9 @@
     {
         "nome": "Imw Rio Jamari",
         "endereco": {
-            "rua": "Daniela",
-            "numero": "SN",
-            "bairro": "Conjunto Jamari",
+            "rua": "Vila Nova",
+            "numero": "6180",
+            "bairro": "3 Marias",
             "cidade": "Porto Velho",
             "estado": "Rondônia"
         },

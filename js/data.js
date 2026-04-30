@@ -273,11 +273,11 @@ const CHURCHES = [
     id: "imw-jk",
     nome: "IMW JK",
     endereco: {
-      full: null,
-      bairro: null,
+      full: "Rua Luiz Gama, 7522 - Juscelino Kubitschek, Porto Velho - RO",
+      bairro: "Juscelino Kubitschek",
       cidade: "Porto Velho",
-      mapsUrl: null,
-      available: false
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Luiz+Gama+7522+Juscelino+Kubitschek+Porto+Velho+RO",
+      available: true
     },
     lider: {
       nome: "Luiz Júnior",
@@ -285,16 +285,16 @@ const CHURCHES = [
       whatsappUrl: "https://wa.me/556992161762",
       available: true
     },
-    coords: null
+    coords: { lat: -8.7693799, lng: -63.8392822 }
   },
   {
     id: "imw-lagoinha",
     nome: "IMW Lagoinha",
     endereco: {
-      full: "Rua Luiz Gama, 7522 - Juscelino Kubitschek, Porto Velho - RO",
-      bairro: "Juscelino Kubitschek",
+      full: "Rua Atlético, 3503 - Lagoinha, Porto Velho - RO",
+      bairro: "Lagoinha",
       cidade: "Porto Velho",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Luiz+Gama+7522+Juscelino+Kubitschek+Porto+Velho+RO",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Atl%C3%A9tico+3503+Lagoinha+Porto+Velho+RO",
       available: true
     },
     lider: {
@@ -303,7 +303,7 @@ const CHURCHES = [
       whatsappUrl: "https://wa.me/556993369103",
       available: true
     },
-    coords: { lat: -8.7693799, lng: -63.8392822 }
+    coords: { lat: -8.7675336, lng: -63.8514888 }
   },
   {
     id: "imw-liberdade",
@@ -417,10 +417,10 @@ const CHURCHES = [
     id: "imw-rio-jamari",
     nome: "IMW Rio Jamari",
     endereco: {
-      full: "Rua Daniela, SN - Conjunto Jamari, Porto Velho - RO",
-      bairro: "Conjunto Jamari",
+      full: "Rua Vila Nova, 6180 - 3 Marias, Porto Velho - RO",
+      bairro: "3 Marias",
       cidade: "Porto Velho",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Daniela+Conjunto+Jamari+Porto+Velho+RO",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Vila+Nova+6180+3+Marias+Porto+Velho+RO",
       available: true
     },
     lider: {
@@ -429,7 +429,7 @@ const CHURCHES = [
       whatsappUrl: "https://wa.me/556993070637",
       available: true
     },
-    coords: { lat: -8.7679585, lng: -63.8493833 }
+    coords: { lat: -8.7749675, lng: -63.8548768 }
   },
   {
     id: "imw-tancredo-neves",
